@@ -1,0 +1,9 @@
+docx
+numpy
+scikit-learn
+PyQt5
+nltk
+pandas
+sqlalchemy
+dotenv
+ shutil
